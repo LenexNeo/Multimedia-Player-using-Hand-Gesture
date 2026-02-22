@@ -18,6 +18,7 @@ This project uses Python, OpenCV, and MediaPipe for real-time hand tracking and 
 
 
  Installation
+ 
 1️ Clone the repository
 git clone https://github.com/LenexNeo/Multimedia-Player-using-Hand-Guesture.git
 cd Multimedia-Player-using-Hand-Guesture
